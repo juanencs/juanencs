@@ -1,11 +1,11 @@
-#  🧑‍💻 Juan Enrico
+#  👨🏽‍💻 Juan Enrico
 
 **`Estudante de Engenharia de Software - UFG`**
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚙️ Linguagens e Tecnologias
 
 <img 
     align="left" 
