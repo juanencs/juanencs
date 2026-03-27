@@ -1,6 +1,6 @@
 ###  🧑‍💻 Juan Enrico
 
-#### Estudante de Engenharia de Software - UFG
+**`Estudante de Engenharia de Software - UFG`**
 </p>
 
 ---
