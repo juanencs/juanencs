@@ -1,7 +1,34 @@
-### Olá, eu sou o Juan 👋
+###  🧑‍💻 Juan Enrico
 
 #### Estudante de Engenharia de Software - UFG
+</p>
 
-<div>
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?juanencs=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)">
-</div>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="c" 
+    title="c"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/c-original.svg?size=60&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
