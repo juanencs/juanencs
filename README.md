@@ -19,8 +19,8 @@
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="60px" 
+    style="padding-right: 20px;" 
     src="http://www.w3.org/2000/svg" 
 />
 <img 
