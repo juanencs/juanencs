@@ -17,10 +17,10 @@
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
-    width="60px" 
-    style="padding-right: 20px;" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="http://www.w3.org/2000/svg" 
 />
 <img 
